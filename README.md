@@ -21,8 +21,8 @@
 
 
 # What is README?
-### README where you can write what that repository contains.
-### For example, I have Python repository, so my readme be look like this
+README where you can write what that repository contains.
+For example, I have Python repository, so my readme be look like this
 
 ## Chapter 1: Topic Name
  	1. Subtopic 1
