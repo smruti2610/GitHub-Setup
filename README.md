@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # GitHub
 
 ## Steps 
@@ -38,4 +39,7 @@
 
 
 
-Thank you...
+# Thank you...
+
+
+
