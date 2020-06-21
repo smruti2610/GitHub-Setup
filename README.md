@@ -20,6 +20,8 @@
 12. New update will be seen
 
 
+
+
 # What is README?
 README where you can write what that repository contains.
 For example, I have Python repository, so my readme be look like this
@@ -31,7 +33,7 @@ For example, I have Python repository, so my readme be look like this
 	1. Subtopic 1
 	2. Subtopic 2
 
-### And so no ….
+
 ### That’s it now you know 
 1.	How to use GitHub?
 2.	How to make repository?
