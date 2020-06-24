@@ -4,7 +4,9 @@
 ## Steps 
 1. Signup in GitHub
 2. Download GitHub Desktop
-### Then follow below table:
+
+
+### Then follow below Steps:
 
 1. Left (you see ‘+’) click on and then click on new repository
 2. Enter repository name , (description , public/private depends upon you) and readme (explain in the last)
